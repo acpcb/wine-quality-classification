@@ -1,0 +1,4 @@
+modelo,roc_auc_cv,melhores_parametros
+Baseline,,{}
+Regressão Logística,0.8734687513566817,{'model__C': 0.1}
+Random Forest,0.9179376453587531,"{'max_depth': None, 'min_samples_leaf': 1, 'n_estimators': 200}"
